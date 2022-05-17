@@ -4,6 +4,8 @@
 
 See https://logging.apache.org/log4net/release/manual/configuration.html
 
+https://logging.apache.org/log4net/log4net-1.2.13/release/sdk/log4net.ILog.IsDebugEnabled.html
+
 ```xml
 <log4net>
     <appender name="DatedDebugFileAppender" type="log4net.Appender.RollingFileAppender">
